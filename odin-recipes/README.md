@@ -1,0 +1,2 @@
+This small project is a small web page that shows the recipe of the famous Chinese dish Kung Pao chicken.
+This is my first HTML project and it is likely to look rough and raw, but it is still my first step to becoming skilled at Web Development
